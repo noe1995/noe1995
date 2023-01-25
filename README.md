@@ -4,7 +4,7 @@
     <h3 align="center">Aqui encontraras mis principales proyectos que he realizado a lo largo de unos años en adelante,
         no todos los proyectos, pero la gran mayoria tratare de subirlos.<br /> Espero estos te puedan ser de ayuda</h3>
 </div>
-<div>
+<div align="center">
     <a href="https://twitter.com/NoeViverosCh" target="_blank">
         <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FNoeViverosCh"
             alt="twitter_badget">
