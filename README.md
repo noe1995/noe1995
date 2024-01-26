@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Actualmente desarrollo una academia en linea.<br>- 🌱 Estoy aprendiendo tecnologías como Python para data science.<br>- 👯 He colaborado con muchos sectores y compañias, principalmente en el sector educativo.<br>- 🤔 Aveces busco ayuda con el desarrollo Backend.<br>- 💬 Me puedes preguntar lo que sea sobre frontend y algunas otras tecnologías.<br>- 📫 Correo empresarial: noe.viveros@codegame-mexico.com.
+- 🔭 Actualmente desarrollo una academia en linea.<br>- 🌱 Estoy aprendiendo tecnologías como Python para data science.<br>- 👯 He colaborado con muchos sectores y compañias, principalmente en el sector educativo.<br>- 🤔 Aveces busco ayuda con el desarrollo Backend.<br>- 💬 Me puedes preguntar lo que sea sobre frontend y algunas otras tecnologías.<br>- 📫 Correo empresarial: noe.viveros@codegame.com.mx
 
 
 # 💻 Tech Stack:
